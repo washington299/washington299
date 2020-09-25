@@ -2,6 +2,10 @@
 
 ## I'm a guy in love with Web Development 💻
 
+> I'm currently studying web development and look for an opportunnity to work as a front-end developer.
+> I'm always trying to improve my skills, work with the best practices and make the code as clean as possible.
+> I've done some personal projects that i used some technologies like: HTML5, CSS3, Javascript, ReactJs, NextJs, Typescript, Redux, Styled-Components, Sass and others. 
+
 ---
 
 ### Languages and tools:
