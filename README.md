@@ -30,13 +30,13 @@
 ### Social Media
   
 <div>
-  <a href="https://www.linkedin.com/in/washington-campos-741771162/" target="_blank">
+  <a href="https://www.linkedin.com/in/washington-campos-741771162/" target="__blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
   </a>
-  <a href="https://www.instagram.com/washington_campos9" target="_blank">
+  <a href="https://www.instagram.com/washington_campos9" target="__blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" />
   </a>
-  <a href="https://www.instagram.com/washington_campos9" target="_blank">
+  <a href="https://www.instagram.com/washington_campos9" target="__blank">
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="" />
   </a>
 </div>
