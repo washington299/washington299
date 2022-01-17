@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/washington_campos9" target="__blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" />
   </a>
-  <a href="https://www.instagram.com/washington_campos9" target="__blank">
+  <a href="https://portfolio-washingtoncampos9.vercel.app" target="__blank">
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="" />
   </a>
 </div>
